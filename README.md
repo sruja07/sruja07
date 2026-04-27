@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Diploma Final Year Student<br>Html/Css-beginner<br>PHP-beginner<br>AWS-intermediate
+2nd Year Engineer Student @ BMSIT<br>Html/Css-beginner<br>PHP-beginner<br>AWS-intermediate
 
 
 ## 🌐 Socials:
