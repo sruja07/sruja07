@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd Year Engineer Student @ BMSIT<br>Html/Css-beginner<br>PHP-beginner<br>AWS-intermediate
+2nd Year Engineer Student @ BMSIT<br>intrested in Web Technologies<br>Build Web Solutions<br>
 
 
 ## 🌐 Socials:
