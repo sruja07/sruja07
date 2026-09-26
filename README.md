@@ -1,6 +1,4 @@
 # Hi 👋, I am Srujan 
-
-# 💫 About Me:
 🏁 Hackathon Enthusiast | Builder | Problem Solver<br>💻 Building AI-powered web applications<br>✋Passionate about solving real-world problems<br>🤖 Exploring Artificial Intelligence, Machine Learning & LLM Applications
 
 
